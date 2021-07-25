@@ -1,2 +1,2 @@
 # injection-sim-python
-Python implementation of injection-sim
+Dump of incomplete PhD work
